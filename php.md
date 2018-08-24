@@ -9,5 +9,5 @@ wget https://gist.githubusercontent.com/GedMullen/3cd8591dac1e436e694aa8ab7bdd8d
 ```bash
 php -S 0.0.0.0:8081
 ```
-<br>4 . [Google Cloud Machine Types](https://cloud.google.com/compute/docs/machine-types). Cloud Shell uses g1-small machine type. MySQL server runs on a n1-standard-1 machine type. 
+<br>4 . [Google Cloud Machine Types](https://cloud.google.com/compute/docs/machine-types). Cloud Shell uses g1-small machine type. MySQL server (Cloud SQL) runs on a n1-standard-1 machine type. 
 
