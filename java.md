@@ -13,8 +13,8 @@
 <br> 11 . [Oracle Java Tutorial](https://docs.oracle.com/javase/tutorial/)
 
 ```bash
-mkdir examples
-cd examples
+mkdir week1
+cd week1
 git clone https://github.com/GedMullen/java.git
 cd java/intro
 javac HelloWorld.java
