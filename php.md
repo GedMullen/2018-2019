@@ -20,8 +20,8 @@ cd php/intro
 php -S 0.0.0.0:8081
 ```
 
-# Exercises
+## Exercises
 
-* Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial.
+* Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial. You will need a google account for this.
 * Complete the [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line) course.
 
