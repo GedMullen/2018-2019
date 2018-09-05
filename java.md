@@ -26,6 +26,6 @@ java HelloWorld
 <BR>1 . Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial.
 <br>2 . Complete the [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line) course.
 <br>2 . Create a GitHub accound and Complete these [GitHub Exercises](https://docs.google.com/document/d/1lYOmyY0liBNXntOP9yipcD7Cy-aqKqAU1gkrSmdd2e4/edit?usp=sharing)
-<br>5 . Complete the following warm up [exercises.](https://docs.google.com/document/d/1xrO981Us1UyecvPCDTqdcVK8JynzlbnyNY1Hew8WuRY/edit?usp=sharing)
+<br>4 . Complete the following warm up [exercises.](https://docs.google.com/document/d/1xrO981Us1UyecvPCDTqdcVK8JynzlbnyNY1Hew8WuRY/edit?usp=sharing)
 
 
