@@ -1,3 +1,11 @@
+# Week 3
+
+* [Website Structures](https://www.bbc.com/bitesize/guides/z96psbk/revision/1)
+
+## Exercise
+
+In your groups decide on a topic for an informative website. You are required to create a 10 minute presentation on the purpose of your website. The presentation will include an overview of the website design showing the website structure. Divide each of the pages up and allocated them to individual members of the group.
+
 # Week 2
  
 1. [GitHub Is Your New CV](http://code.dblock.org/2011/07/14/github-is-your-new-resume.html)
