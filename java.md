@@ -1,3 +1,35 @@
+<!--
+Week 3 usecases. Descriptions due before October break.
+-->
+
+# Week 2
+
+* [Oracle OOP Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+<!--
+* [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
+* [Google Java coding standards](https://google.github.io/styleguide/javaguide.html)
+* Answers to warm up exercises 1-4 using [Cloud Shell](https://console.cloud.google.com/cloudshell/):
+```bash
+mkdir week2
+cd week2
+git clone https://github.com/GedMullen/java.git
+cd java/warmup1-4
+javac Exercises.java
+java Exercises
+```
+-->
+## Exercises
+
+* Complete the [Oracle OO Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
+<!--
+* In your groups create a 10 minute presentation that answers the following questions:
+	* What is OOP?
+	* What are the advantages of OOP over procedural programming?
+	* Explain the term "Instantiating an object in Java" -  provide a code example.
+* Start working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
+-->
+
+
 # Week 1
 
 * [Corners Game](https://docs.google.com/document/d/1f8YCnRpKR5dgO-aP77ZXJg5SU6BWLMkiLsc99n1WZe4/pub)
