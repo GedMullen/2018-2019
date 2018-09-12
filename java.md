@@ -5,9 +5,9 @@ Week 3 usecases. Descriptions due before October break.
 # Week 2
 
 * [Oracle OOP Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-<!--
 * [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
-* [Google Java coding standards](https://google.github.io/styleguide/javaguide.html)
+<!--
+* [Coding Standards](http://www.asch.org.uk/programming/general/standards.html)
 * Answers to warm up exercises 1-4 using [Cloud Shell](https://console.cloud.google.com/cloudshell/):
 ```bash
 mkdir week2
@@ -17,7 +17,14 @@ cd java/warmup1-4
 javac Exercises.java
 java Exercises
 ```
+* Console input:
+```bash
+cd java\intro
+javac Controller.java
+java Controller
+```
 -->
+
 ## Exercises
 
 * In your groups identify a real world object (e.g. Person) and describe the following:
@@ -30,8 +37,10 @@ java Exercises
 	* What is OOP - What are its key concepts?
 	* What are the advantages of OOP over procedural programming?
 	* Explain the term "Instantiating an object in Java" -  provide a code example.
-<!--
 * Start working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
+<!--
+* Modify Controller.java to check for the username "admin" and password "password". Output a successful login message if the user enters the correct username/password combination.
+* From the Controller class instantiate an instance of Exercises if the user logs in correctly and call all the methods in Exercises. 
 -->
 
 
