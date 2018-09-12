@@ -26,11 +26,11 @@ java Exercises
 	* Name an "is a" relationship of the object (e.g. Animal)
 	* Name a sub class (e.g. Female)
 * Complete the [Oracle OO Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
-<!--
 * In your groups create a 10 minute presentation that answers the following questions:
-	* What is OOP?
+	* What is OOP - What are its key concepts?
 	* What are the advantages of OOP over procedural programming?
 	* Explain the term "Instantiating an object in Java" -  provide a code example.
+<!--
 * Start working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
 -->
 
