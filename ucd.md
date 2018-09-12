@@ -6,11 +6,12 @@
 
 * [Case Study Individual](https://docs.google.com/document/d/1TGEHditXC_XBa_aBE6812WY9b-gtmaJmNXg11s72GS8/edit?usp=sharing)
 * [Case Study Group](https://docs.google.com/document/d/1X_-j0fbgXxoB2OnA6dWkWvhosEcRzxusB4lIjzHbjFU/edit?usp=sharing)
-
+<!--
 ## Answers
 
 * [Case Study Individual](https://docs.google.com/document/d/14NWk1uO2t3lvKKMSB-zmEWEWnlOGbWj5blEQ4DueKak/edit?usp=sharing)
 * [Case Study Group](https://docs.google.com/document/d/18fWhAZA5aHWxGhcWRrzhkJ1PqQRK1Y8kugPWAUvqSOg/edit?usp=sharing)
+-->
 
 # Week 1
 
