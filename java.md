@@ -20,6 +20,11 @@ java Exercises
 -->
 ## Exercises
 
+* In your groups identify a real world object (e.g. Person) and describe the following:
+	* State attributes of the object (e.g. Brown Eyes)
+	* Behavioural aspects of the object (e.g. Talks)
+	* Name an "is a" relationship of the object (e.g. Animal)
+	* Name a sub class (e.g. Female)
 * Complete the [Oracle OO Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 <!--
 * In your groups create a 10 minute presentation that answers the following questions:
