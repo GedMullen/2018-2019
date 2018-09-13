@@ -6,7 +6,6 @@ Week 3 usecases. Descriptions due before October break.
 
 * [Oracle OOP Introduction](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)
 * [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
-<!--
 * [Coding Standards](http://www.asch.org.uk/programming/general/standards.html)
 * Answers to warm up exercises 1-4 using [Cloud Shell](https://console.cloud.google.com/cloudshell/):
 ```bash
@@ -17,6 +16,7 @@ cd java/warmup1-4
 javac Exercises.java
 java Exercises
 ```
+<!--
 * Console input:
 ```bash
 cd java\intro
