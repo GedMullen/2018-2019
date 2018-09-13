@@ -32,14 +32,12 @@ javac Exercises.java
 java Exercises
 ```
 * [Warm Up Exercise Answers 1-4](https://github.com/GedMullen/java/blob/master/warmup1-4/Exercises.java)
-<!--
 * Console input:
 ```bash
 cd java\intro
 javac Controller.java
 java Controller
 ```
--->
 
 ## Exercises
 
@@ -54,10 +52,8 @@ java Controller
 	* What are the advantages of OOP over procedural programming?
 	* Explain the term "Instantiating an object in Java" -  provide a code example.
 * Start working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
-<!--
 * Modify Controller.java to check for the username "admin" and password "password". Output a successful login message if the user enters the correct username/password combination.
 * From the Controller class instantiate an instance of Exercises if the user logs in correctly and call all the methods in Exercises. 
--->
 
 
 # Week 1
