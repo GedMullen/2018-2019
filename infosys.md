@@ -1,3 +1,19 @@
+<!--
+# Week 4
+
+* [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
+
+## Exercise
+
+* Complete the [HTML Styles](https://www.w3schools.com/html/html_styles.asp) tutorial.
+* In your groups decide on the following style attirbutes of your website
+	* Background Colour
+	* Text Colour
+	* Text Size
+	* Alignment
+* Start creating your individual page with the agreed style attributes.
+-->
+
 # Week 3
 
 * [Website Structures](https://www.bbc.com/bitesize/guides/z96psbk/revision/1)
