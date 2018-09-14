@@ -1,5 +1,10 @@
 # Week 2
 
+* [Dynamically Generated Content](https://docs.google.com/presentation/d/1bWMd9ypXXUJGt-jDpjpRSfh6_2zHMRKjjBcldO0OMeM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+* [Netcraft Survey](https://news.netcraft.com/archives/2018/07/19/july-2018-web-server-survey.html)
+
+## Exercise
+
 * Complete the [Learning the Command Line on Codecademy](https://www.codecademy.com/learn/learn-the-command-line) course.
 
 # Week 1
