@@ -1,6 +1,6 @@
 # Week 2
 
-* [Dynamically Generated Content](https://docs.google.com/presentation/d/1bWMd9ypXXUJGt-jDpjpRSfh6_2zHMRKjjBcldO0OMeM/pub?start=false&loop=false&delayms=60000&slide=id.p3)
+* [Dynamically Generated Content](https://docs.google.com/presentation/d/1bWMd9ypXXUJGt-jDpjpRSfh6_2zHMRKjjBcldO0OMeM/pub?start=false&loop=false&delayms=60000&slide=id.p10)
 * [Netcraft Survey](https://news.netcraft.com/archives/2018/07/19/july-2018-web-server-survey.html)
 
 ## Exercise
