@@ -1,4 +1,3 @@
-<!--
 # Week 3
 
 * [Use Case Intro](https://docs.google.com/presentation/d/12LguEoxFnRpudMGFXiUSkXRO3o7nGsrYpSoqGFaFU08/edit?usp=sharing)
@@ -10,6 +9,8 @@
 
 ## Exercises
 
+* Complete the [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)   
+<!--
 * In your groups think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a Google Slide to demonstrate your use case description. Make sure you include the precondition and trigger for the scenario.
 * Create an alternative path/scenario for a shopping basket that includes alcohol.
 * Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
