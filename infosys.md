@@ -1,4 +1,3 @@
-<!--
 # Week 4
 
 * [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
@@ -12,6 +11,7 @@
 	* Text Size
 	* Alignment
 * Start creating your individual page with the agreed style attributes.
+<!--
 -->
 
 # Week 3
