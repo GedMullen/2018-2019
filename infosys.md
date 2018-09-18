@@ -1,6 +1,7 @@
 # Week 4
 
 * [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
+* [Links](https://www.w3schools.com/html/html_links.asp)
 
 ## Exercise
 
@@ -12,6 +13,9 @@
 	* Font
 	* Alignment
 * Start creating your individual page with the agreed style attributes.
+* Complete the [HTML Links](https://www.w3schools.com/html/html_links.asp) tutorial.
+* Create a home page for your group that links to your individual pages.
+
 <!--
 -->
 
