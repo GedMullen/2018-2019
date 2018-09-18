@@ -9,6 +9,7 @@
 	* Background Colour
 	* Text Colour
 	* Text Size
+	* Font
 	* Alignment
 * Start creating your individual page with the agreed style attributes.
 <!--
