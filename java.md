@@ -3,7 +3,6 @@
 * [Use Case Intro](https://docs.google.com/presentation/d/12LguEoxFnRpudMGFXiUSkXRO3o7nGsrYpSoqGFaFU08/edit?usp=sharing)
 * [Use Case Descriptions](https://docs.google.com/presentation/d/1oa1b0NyJd6A_mF2GCjdBbE8dqmzzHVtMmXDHXEV-Me8/edit?usp=sharing)
 * [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
-* [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html)
 * [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 * [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
 * [Draw.io](https://www.draw.io/)
@@ -14,7 +13,7 @@
 ## Exercises
 
 * Complete the [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)   
-* Review the [Use Case Example - ATM](http://epf.eclipse.org/wikis/openup/core.tech.common.extend_supp/guidances/examples/use_case_spec_CD5DD9B1.html) and [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
+* Review the [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 <!--
 * In your groups think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a Google Slide to demonstrate your use case description. Make sure you include the precondition and trigger for the scenario.
 * Create an alternative path/scenario for a shopping basket that includes alcohol.
