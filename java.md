@@ -7,9 +7,7 @@
 * [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
 * [Draw.io](https://www.draw.io/)
 * [Vending Machine Description](https://docs.google.com/document/d/1Eucn9fDemkJmoLM0xtM92mou7vyhWIxCouGaYu0PQP8/edit?usp=sharing)
-<!--
 * [Deadlines](https://docs.google.com/spreadsheets/d/1k4FEsRQcoX1WEdatdkQ17lrfx29YZ539LxWIM1QuJIs/edit?usp=sharing)
--->
 
 ## Exercises
 
