@@ -1,3 +1,9 @@
+# Week 3 
+
+* [w3schools HTML Tutorial](https://www.w3schools.com/html/default.asp) 
+* [Notepad ++](https://notepad-plus-plus.org/)
+
+
 # Week 2
 
 * [Dynamically Generated Content](https://docs.google.com/presentation/d/1bWMd9ypXXUJGt-jDpjpRSfh6_2zHMRKjjBcldO0OMeM/pub?start=false&loop=false&delayms=60000&slide=id.p10)

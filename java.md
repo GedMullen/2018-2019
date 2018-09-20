@@ -17,6 +17,7 @@
 * Review the [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 * In your groups think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a Google Slide to demonstrate your use case description. Make sure you include the precondition and trigger for the scenario.
 * Create an alternative path/scenario for a shopping basket that includes alcohol.
+* Create an exceptional flow for the above scenario.
 * Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
 * Create a System Level Use Case diagram for the two use cases above using draw.io.
 * Identify 4 other Use Cases associated with a computer system that serves a supermarket. Draw a system level use case diagram that shows these scenarios. 
