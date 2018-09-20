@@ -6,6 +6,7 @@
 * [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
 * [Ch3 UML Distilled Use Cases](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687)
 * [Draw.io](https://www.draw.io/)
+* [Vending Machine Description](https://docs.google.com/document/d/1Eucn9fDemkJmoLM0xtM92mou7vyhWIxCouGaYu0PQP8/edit?usp=sharing)
 <!--
 * [Deadlines](https://docs.google.com/spreadsheets/d/1k4FEsRQcoX1WEdatdkQ17lrfx29YZ539LxWIM1QuJIs/edit?usp=sharing)
 -->
@@ -14,13 +15,11 @@
 
 * Complete the [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)   
 * Review the [Agile Use Case Tutorial](http://www.agilemodeling.com/artifacts/useCaseDiagram.htm)
-<!--
 * In your groups think about the process of paying for shopping using a self service checkout at a supermarket. Write the main success scenario for this process. Create a Google Slide to demonstrate your use case description. Make sure you include the precondition and trigger for the scenario.
 * Create an alternative path/scenario for a shopping basket that includes alcohol.
 * Create a separate Use Case that details the process of a checkout assistant checking the amount of money in the self service machine.
 * Create a System Level Use Case diagram for the two use cases above using draw.io.
 * Identify 4 other Use Cases associated with a computer system that serves a supermarket. Draw a system level use case diagram that shows these scenarios. 
--->
 
 # Week 2
 

@@ -4,7 +4,7 @@
 
 ## Exercise
 
-
+* Following [this brief](https://docs.google.com/document/d/1Uj3-PuoTG5XLH36EQhjtzcuCrPZICifjex_0R4-OWGA/edit?usp=sharing) 
 
 # Week 2
 
