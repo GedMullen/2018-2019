@@ -1,5 +1,5 @@
 # Week 3
-
+ 
 * [Use Case Intro](https://docs.google.com/presentation/d/12LguEoxFnRpudMGFXiUSkXRO3o7nGsrYpSoqGFaFU08/edit?usp=sharing)
 * [Use Case Descriptions](https://docs.google.com/presentation/d/1oa1b0NyJd6A_mF2GCjdBbE8dqmzzHVtMmXDHXEV-Me8/edit?usp=sharing)
 * [Use Cases Tutorial](http://www.usability.gov/how-to-and-tools/methods/use-cases.html)
