@@ -1,6 +1,7 @@
 # Week 3
 
 * [Interviews](https://drive.google.com/open?id=1hfuy5ZDxsHKppmqeUqpj_AYIM1M9gCaCo_tqrD9E5rc)
+* [Silicon Valley Focus Group](https://www.youtube.com/watch?reload=9&v=Sx1J3S6vUJ8)
 
 ## Exercise
 
