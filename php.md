@@ -1,8 +1,12 @@
 # Week 3 
 
+* [Web Architecture](https://docs.google.com/presentation/d/1ERXT_L5CjzsJ6gce4kjpXQ5wPi54dAmRqJNUWFGMHX4/edit?usp=sharing)
 * [w3schools HTML Tutorial](https://www.w3schools.com/html/default.asp) 
 * [Notepad ++](https://notepad-plus-plus.org/)
 
+## Exercises
+
+* Follow [this brief](https://docs.google.com/document/d/1jmYj8g8ai9_kYZ5EtyEAa6BsLbkjKG6TsLn4n8j67b8/edit?usp=sharing)
 
 # Week 2
 
