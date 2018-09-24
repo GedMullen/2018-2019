@@ -1,3 +1,17 @@
+# Week 5
+
+* [Introducing HTML5](https://www.w3schools.com/Html/html5_intro.asp)
+* [HTML Style Guide](https://www.w3schools.com/Html/html5_syntax.asp)
+* [HTML Media](https://www.w3schools.com/Html/html_media.asp)
+* [Embedding Videos](https://www.w3schools.com/Html/html5_video.asp)
+* [Youtube](https://www.w3schools.com/Html/html_youtube.asp)
+
+## Exercise
+
+* Modify your webpages to comply with the conventions in the [HTML Style Guide](https://www.w3schools.com/Html/html5_syntax.asp)
+* Embed two types of videos into your web page. A "local" video and a youtube video.
+
+
 # Week 4
 
 * [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
