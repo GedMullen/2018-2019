@@ -1,3 +1,8 @@
+# Week 4
+
+* [OOP Key Principles - Abstrction](https://docs.google.com/presentation/d/1mgbg_7FeEMJJeu2vH_Y8Kll8ufKYG3qWAFFGIWKBHMI/edit?usp=sharing)
+
+
 # Week 3
  
 * [Use Case Intro](https://docs.google.com/presentation/d/12LguEoxFnRpudMGFXiUSkXRO3o7nGsrYpSoqGFaFU08/edit?usp=sharing)

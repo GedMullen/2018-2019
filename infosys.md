@@ -4,6 +4,7 @@
 * [HTML Style Guide](https://www.w3schools.com/Html/html5_syntax.asp)
 * [HTML Media](https://www.w3schools.com/Html/html_media.asp)
 * [Embedding Videos](https://www.w3schools.com/Html/html5_video.asp)
+* [Sample Videos](https://www.sample-videos.com/)
 * [Youtube](https://www.w3schools.com/Html/html_youtube.asp)
 
 ## Exercise
