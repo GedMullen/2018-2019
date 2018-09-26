@@ -4,12 +4,12 @@
 
 <!--
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
-
+-->
 ## Exercises
 
 * Modify the Controller.java to check for the username "admin" and password "password". Output a successful login message if the user enters the correct username/password combination.
 * Create a menu that allows the user to execute each of the warmup exercises.
--->
+
 
 # Week 3
  
