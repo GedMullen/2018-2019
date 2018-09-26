@@ -1,15 +1,21 @@
 # Week 4
 
 * [OOP Key Principles - Abstraction](https://docs.google.com/presentation/d/1mgbg_7FeEMJJeu2vH_Y8Kll8ufKYG3qWAFFGIWKBHMI/edit?usp=sharing)
-
 <!--
+* [Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
+* [Array Lists](https://www.javatpoint.com/java-arraylist)
+* [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
+
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
 -->
 ## Exercises
 
 * Modify the Controller.java to check for the username "admin" and password "password". Output a successful login message if the user enters the correct username/password combination.
 * Create a menu that allows the user to execute each of the warmup exercises.
-
+<!--
+* Create a "Course" class that contains a course name (String) and a collection of of student names (ArrayList<String>). Populate the ArrayList with students and print out the array list in your main method.
+* Create a Controller class that allows the user to enter the name of a student. If the student is on the course the program should display the message "the student is on the course" otherwise the message "the student is not on the course" should be output to the console.
+-->
 
 # Week 3
  
