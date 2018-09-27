@@ -6,6 +6,7 @@
 * [Embedding Videos](https://www.w3schools.com/Html/html5_video.asp)
 * [Sample Videos](https://www.sample-videos.com/)
 * [Youtube](https://www.w3schools.com/Html/html_youtube.asp)
+* [OWASP Top 10](https://www.greycampus.com/blog/information-security/owasp-top-vulnerabilities-in-web-applications)
 
 ## Exercise
 
