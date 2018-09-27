@@ -6,7 +6,7 @@
 ## Exercises
 
 * Create a questionnaire of your choice for your fellow students using [Google Forms](https://www.google.co.uk/forms/about/).
-* Create a questionnaire (in a document) to interview a client based on the [brief]((https://docs.google.com/document/d/14jClyikEEg4y7izCmi8fKC5y-_GAxNU8uuYYHV2w46s/edit?usp=sharing) (Assume you know only the client's name and that they want an app)
+* Create a questionnaire (in a document) to interview a client based on the [brief](https://docs.google.com/document/d/14jClyikEEg4y7izCmi8fKC5y-_GAxNU8uuYYHV2w46s/edit?usp=sharing) (Assume you know only the client's name and that they want an app)
 * Once it is completed, ask 4 of your colleagues to complete it based on a copy of our own app idea and brief, that you will also give them with it. 
 * Once your questionnaires have been returned, check that you would be able to list the functional and non-functional requirements for the brief from the answers.  If not, tweak and edit your questions.
 
