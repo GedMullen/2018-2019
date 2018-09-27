@@ -4,6 +4,7 @@
 * [Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
 * [Array Lists](https://www.javatpoint.com/java-arraylist)
 * [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
+* [Oracle Certification](https://education.oracle.com/oracle-certification-exams-list)
 <!--
 * [Warm Up Answers](https://github.com/GedMullen/java/tree/master/warmup5-11)
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
