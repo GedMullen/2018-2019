@@ -1,11 +1,10 @@
 # Week 4
 
 * [OOP Key Principles - Abstraction](https://docs.google.com/presentation/d/1mgbg_7FeEMJJeu2vH_Y8Kll8ufKYG3qWAFFGIWKBHMI/edit?usp=sharing)
-<!--
 * [Arrays](https://www.tutorialspoint.com/java/java_arrays.htm)
 * [Array Lists](https://www.javatpoint.com/java-arraylist)
 * [Iterating Through ArrayList](https://gist.github.com/GedMullen/9223ae030ff1c9c5e99318279fc91452)
-
+<!--
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
 -->
 ## Exercises
