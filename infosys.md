@@ -1,3 +1,15 @@
+# Week 6
+
+* [Client Side Scripting](https://www.bbc.com/bitesize/guides/ztj2xnb/revision/1)
+* [HTML with JavaScript](https://www.w3schools.com/html/html_scripts.asp)
+* [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
+
+## Exercise
+
+* Using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp) upadte your website to include the following client side scripting:
+	* An alert box.
+	* Dynamically upating text [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
+
 # Week 5
 
 * [Introducing HTML5](https://www.w3schools.com/Html/html5_intro.asp)
