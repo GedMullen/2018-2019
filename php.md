@@ -1,3 +1,20 @@
+<!--
+* [HTML Timeline](https://www.w3schools.com/Html/html5_intro.asp)
+-->
+
+# Week 4
+
+* [CSS Tutorial](https://www.w3schools.com/Css/)
+* [CSS Zen Garden](http://csszengarden.com/)
+* [Emaxmple Design](http://www.csszengarden.com/175/)
+* [JTechnologies](http://www.jtechnologies.co.uk/)
+
+## Exercise
+
+* Pick a subject for an informative website and find a design that matches your chosen subject from the [CSS Zen Garden](http://csszengarden.com/).
+* Download the required HTML, CSS and images so that your chosen design renders on your computer.
+* Use the design as a template to create your own informative web page.  
+
 # Week 3 
 
 * [Web Architecture](https://docs.google.com/presentation/d/1ERXT_L5CjzsJ6gce4kjpXQ5wPi54dAmRqJNUWFGMHX4/edit?usp=sharing)
