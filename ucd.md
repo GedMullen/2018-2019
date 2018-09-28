@@ -2,7 +2,7 @@
 
 * [Questionnaires](https://docs.google.com/presentation/d/1EpmKUsiqmfO-tyyKdQZ8Wu8Mas_OT7tZNJbkLd8iIRU/edit?usp=sharing)
 * [Google Forms](https://www.google.co.uk/forms/about/)
-* [Test Survey](https://goo.gl/forms/mCGels0qBXP9rH5O2)
+* [Test Survey](https://goo.gl/forms/PuVFkZKEFQcR8bCw2)
 
 ## Exercises
 
