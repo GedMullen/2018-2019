@@ -6,7 +6,7 @@
 
 * [CSS Tutorial](https://www.w3schools.com/Css/)
 * [CSS Zen Garden](http://csszengarden.com/)
-* [Emaxmple Design](http://www.csszengarden.com/175/)
+* [Example Design](http://www.csszengarden.com/175/)
 * [JTechnologies](http://www.jtechnologies.co.uk/)
 
 ## Exercise
