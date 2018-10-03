@@ -4,6 +4,7 @@
 * [Submission](http://moodle.forthvalley.ac.uk/moodle/mod/assign/view.php?id=81694&group=2463)
 * [Abstraction - Generalisation](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit?usp=sharing)
 * [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
+* [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 <!--
 * [Abstraction 2](https://docs.google.com/presentation/d/1FZ7uyn9DjTkIQAB5pln7ih9fnWSvq786nUmt-RIzk0A/edit?usp=sharing)
 * [Visibility](https://docs.google.com/presentation/d/1iGKMrRu7mclc0SyyX9R4-OMdnyrfh0DZ1auoKcc_EY8/edit?usp=sharing)
