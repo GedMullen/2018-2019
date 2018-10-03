@@ -6,7 +6,7 @@
 
 ## Exercise
 
-* Using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp) upadte your website to include the following client side scripting:
+* Using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp) update your website to include the following client side scripting:
 	* An alert box.
 	* Dynamically upating text [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
 
