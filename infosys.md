@@ -3,6 +3,7 @@
 * [Client Side Scripting](https://www.bbc.com/bitesize/guides/ztj2xnb/revision/1)
 * [HTML with JavaScript](https://www.w3schools.com/html/html_scripts.asp)
 * [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
+* [Facebook Hack](https://slate.com/technology/2018/10/facebook-hack-security-breach-50-million-accounts.html)
 
 ## Exercise
 
