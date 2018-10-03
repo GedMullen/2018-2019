@@ -15,8 +15,8 @@
 
 * Implement this [class diagram](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit#slide=id.p6). Create a Controller class that instantiates instances of Student and Staff and outputs the contents of the object to the console (override toString()). Set the type of the dateOfBirth attribute should a String.
 * Change the dateOfBirth attribute to type Date. Parse the date string passed into the constructor to create a Date attribute.
-<!--
 * Create an ArrayList of Students and an ArrayList of Staff. Modify your Controller to prompt for a name and search through each of the ArrayLists to see if there is a match. Output an appropriate message.
+<!--
 * Modify the code above to use only one ArrayList.
 -->
 
