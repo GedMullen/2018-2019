@@ -1,3 +1,14 @@
+# Week 5
+
+* [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
+<!--
+* [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
+* [Abstraction 1](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit?usp=sharing)
+* [Abstraction 2](https://docs.google.com/presentation/d/1FZ7uyn9DjTkIQAB5pln7ih9fnWSvq786nUmt-RIzk0A/edit?usp=sharing)
+* [Visibility](https://docs.google.com/presentation/d/1iGKMrRu7mclc0SyyX9R4-OMdnyrfh0DZ1auoKcc_EY8/edit?usp=sharing)
+* [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+-->
+
 # Week 4
 
 * [OOP Key Principles - Abstraction](https://docs.google.com/presentation/d/1mgbg_7FeEMJJeu2vH_Y8Kll8ufKYG3qWAFFGIWKBHMI/edit?usp=sharing)
