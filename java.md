@@ -5,9 +5,9 @@
 * [Abstraction - Generalisation](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit?usp=sharing)
 * [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
 * [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
-<!--
 * [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 * [Access (Visibility) Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+<!--
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
 -->
 
@@ -17,8 +17,8 @@
 * Change the dateOfBirth attribute to type Date. Parse the date string passed into the constructor to create a Date attribute.
 * Create an ArrayList of Students and an ArrayList of Staff. Modify your Controller to prompt for a name and search through each of the ArrayLists to see if there is a match. Output an appropriate message.
 * Modify the code above to use only one ArrayList.
-<!--
 Create two subclasses of Staff - Lecturer and Management. Lecturers have an additional attribute "subjectSpeciality" and managers have an additional attribute "department".
+<!--
 -->
 
 # Week 4
