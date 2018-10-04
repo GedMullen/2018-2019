@@ -7,8 +7,8 @@
 * [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 * [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 * [Access (Visibility) Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
-<!--
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
+<!--
 -->
 
 ## Exercise
