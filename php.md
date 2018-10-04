@@ -1,6 +1,16 @@
+
+# Week 5
+
+* [More CSS](https://drive.google.com/file/d/1NQM0xI_vUf0zp6xtQUrhhSteYdnYJAbB/view?usp=sharing)
 <!--
 * [HTML Timeline](https://www.w3schools.com/Html/html5_intro.asp)
+* [HTML DOM Tree](https://www.w3schools.com/js/js_htmldom.asp)
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/css/) 
 -->
+
+## Exercises
+
+* Continue to develop your informative website using the CSS style you chose from last week. 
 
 # Week 4
 

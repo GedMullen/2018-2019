@@ -6,10 +6,9 @@
 * [Java Dates And Times](http://www.tutorialspoint.com/java/java_date_time.htm)
 * [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 <!--
-* [Abstraction 2](https://docs.google.com/presentation/d/1FZ7uyn9DjTkIQAB5pln7ih9fnWSvq786nUmt-RIzk0A/edit?usp=sharing)
-* [Visibility](https://docs.google.com/presentation/d/1iGKMrRu7mclc0SyyX9R4-OMdnyrfh0DZ1auoKcc_EY8/edit?usp=sharing)
-* [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
 * [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+* [Access (Visibility) Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+* [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
 -->
 
 ## Exercise
@@ -17,8 +16,9 @@
 * Implement this [class diagram](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit#slide=id.p6). Create a Controller class that instantiates instances of Student and Staff and outputs the contents of the object to the console (override toString()). Set the type of the dateOfBirth attribute should a String.
 * Change the dateOfBirth attribute to type Date. Parse the date string passed into the constructor to create a Date attribute.
 * Create an ArrayList of Students and an ArrayList of Staff. Modify your Controller to prompt for a name and search through each of the ArrayLists to see if there is a match. Output an appropriate message.
-<!--
 * Modify the code above to use only one ArrayList.
+<!--
+Create two subclasses of Staff - Lecturer and Management. Lecturers have an additional attribute "subjectSpeciality" and managers have an additional attribute "department".
 -->
 
 # Week 4
