@@ -10,6 +10,7 @@
 * Using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp) update your website to include the following client side scripting:
 	* An alert box.
 	* Dynamically upating text [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
+	* Writing into the browser console [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_dom)
 
 # Week 5
 
