@@ -1,3 +1,15 @@
+# Week 7
+
+* [Example Webpage](https://gist.github.com/Haxoras/7990467)
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/beginners/html)
+
+## Exercise 
+
+* Use [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/beginners/html) on your webpage to:
+	* Inpect the styles associated with a given element.
+	* Modify an element on the fly.
+	* Understand the padding around an element.
+
 # Week 6
 
 * [Client Side Scripting](https://www.bbc.com/bitesize/guides/ztj2xnb/revision/1)
