@@ -2,6 +2,7 @@
 
 * [Example Webpage](https://gist.github.com/Haxoras/7990467)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/beginners/html)
+* [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
 ## Exercise 
 
