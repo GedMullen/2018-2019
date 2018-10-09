@@ -1,7 +1,18 @@
 # Week 6
 
+* [Method Signatures](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
+* [Method Overloading](https://www.geeksforgeeks.org/overloading-in-java/)
+* [Last Week's code](https://github.com/GedMullen/java/tree/master/week5/inheritance)
+* [Updated Class Diagram](https://drive.google.com/open?id=1ZkLt18MFh-12Yz8gUAlamMRUYusF0KAr)
 
-
+## Exercises
+<!--
+* Update the code to add the "Person has an Address" relationship. Pass the address into the constructor of the Person object.
+* You may not have the address of all Staff/Students. Add in an overloaded constructor to allow for this.
+* Expand the application to have a menu with the following options:
+	* Search for person.
+	* Add Student. 
+-->
 # Week 5
 
 * [Inheritance Tutorial](https://www.tutorialspoint.com/java/java_inheritance.htm)
@@ -12,9 +23,6 @@
 * [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
 * [Access (Visibility) Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 * [OOP Key Principles - Encapsulation](https://docs.google.com/presentation/d/1iY-umOTsc66EythgwvxxafqMDW4UDYRfrOUq0FN2Vzo/edit?usp=sharing)
-<!--
--->
-
 ## Exercise
 
 * Implement this [class diagram](https://docs.google.com/presentation/d/1ayqwPLIqOVPmjWP3LclbivWFTwE1syGoCxLnR9zdVtY/edit#slide=id.p6). Create a Controller class that instantiates instances of Student and Staff and outputs the contents of the object to the console (override toString()). Set the type of the dateOfBirth attribute should a String.
