@@ -12,6 +12,12 @@
 	* Search for person.
 	* Add Student. 
 * Implement the Add Student menu item.
+<!--
+* Add the following menu option and implement:
+	* Update Student
+* Add the following menu option and implement:
+	* Remove Student
+-->
 
 # Week 5
 
