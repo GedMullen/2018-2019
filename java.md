@@ -7,8 +7,8 @@
 
 ## Exercises
 * Update the code to add the "Person has an Address" relationship. Pass the address into the constructor of the Person object.
-<!--
 * You may not have the address of all Staff/Students. Add in an overloaded constructor to allow for this.
+<!--
 * Expand the application to have a menu with the following options:
 	* Search for person.
 	* Add Student. 
