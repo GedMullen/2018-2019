@@ -5,9 +5,10 @@
 * [Last Week's code](https://github.com/GedMullen/java/tree/master/week5/inheritance)
 * [Updated Class Diagram](https://drive.google.com/open?id=1ZkLt18MFh-12Yz8gUAlamMRUYusF0KAr)
 * [Switch Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-<br>4 . Using spaces with Java Scanner 
+* Using spaces with Java Scanner 
 ```java
 scanner.useDelimiter("\n");
+scanner.nextLine();
 ```
 
 ## Exercises
