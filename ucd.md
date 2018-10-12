@@ -1,3 +1,7 @@
+# Week 6
+
+* [Assessment](http://moodle.forthvalley.ac.uk/moodle/mod/assign/view.php?id=81693)
+
 # Week 4 & 5
 
 * [Questionnaires](https://docs.google.com/presentation/d/1EpmKUsiqmfO-tyyKdQZ8Wu8Mas_OT7tZNJbkLd8iIRU/edit?usp=sharing)
