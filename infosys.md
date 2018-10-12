@@ -3,6 +3,7 @@
 * [Example Webpage](https://gist.github.com/Haxoras/7990467)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/beginners/html)
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+* [Chinese chip hack](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies)
 
 ## Exercise 
 
