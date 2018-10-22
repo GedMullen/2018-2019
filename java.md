@@ -1,3 +1,13 @@
+# Week 7
+
+* [Method Overriding](https://www.tutorialspoint.com/java/java_overriding.htm)
+
+# Exercises
+
+* Add a "canteanDiscount" attribute to Person of 10 percent. Override the getCanteanDiscount() method to allow for Lecturers that are over 50 to get an extra one percent discount for every year over fifty they are. Modify toString methods as required. 
+
+
+
 # Week 6
 
 * [Method Signatures](https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html)
