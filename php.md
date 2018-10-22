@@ -8,8 +8,10 @@
 
 * [Example Webpage](https://gist.github.com/Haxoras/7990467)
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/css/) 
+<!--
 * [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
 * [JavaScript Tutorial](https://www.w3schools.com/js/)
+-->
 
 # Week 5
 

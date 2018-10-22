@@ -1,3 +1,8 @@
+# Week 8
+
+* Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial. You will need a google account for this.
+
+
 # Week 7
 
 * [Example Webpage](https://gist.github.com/Haxoras/7990467)
