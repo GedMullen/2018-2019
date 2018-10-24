@@ -1,6 +1,30 @@
+<!--
+1 . [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
+<br>2 . [UML Distilled CRC Cards - Page 75](http://www.amazon.co.uk/UML-Distilled-Standard-Modeling-Technology/dp/0321193687) 
+<br>3 . [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
+<br>4 . [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+<br>5 . [Translating UML to Java](https://drive.google.com/open?id=0B-CFaefA1v4RS1JYYjRiLWlvZGs)
+<br>6 . [Example CRC Answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing)
+<br>7 . [KitBuildIt CRC Answers](https://docs.google.com/document/d/11oA-s1ZZjbHmFfEW8533Nkb5umgPt2k9c8dmuT_35TE/edit?usp=sharing)
+<br>8 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+<br>9 . [Access Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+<br>10 . Superior Linux commands :grin:
+```
+scp myfile.pdf you@ygritte.uk:markme
+ssh -L 8888:localhost:8777 you@ygritte.uk
+```
+
+## Exercises
+
+1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create a CRC card file on Ygritte. Name the file crc.txt.
+<br>2 . In your groups create a kitcrc.txt file on Ygritte and detail CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+<br>3 . In your groups create a class diagram from the CRC cards you created for KitBuildIt.
+-->
+
 # Week 7
 
 * [Method Overriding](https://www.tutorialspoint.com/java/java_overriding.htm)
+* [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
 
 # Exercises
 
