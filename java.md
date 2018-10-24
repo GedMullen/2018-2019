@@ -5,6 +5,7 @@
 # Exercises
 
 * Add a "canteanDiscount" attribute to Person of 10 percent. Override the getCanteanDiscount() method to allow for Lecturers that are over 50 to get an extra one percent discount for every year over fifty they are. Modify toString methods as required. 
+* Continue working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
 
 
 
