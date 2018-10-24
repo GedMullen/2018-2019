@@ -25,7 +25,7 @@ ssh -L 8888:localhost:8777 you@ygritte.uk
 
 * [Method Overriding](https://www.tutorialspoint.com/java/java_overriding.htm)
 * [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
-
+* [Lee's Gist](https://gist.github.com/LeeGlen610) 
 # Exercises
 
 * Add a "canteenDiscount" attribute to Person of 10 percent. Override the getCanteenDiscount() method to allow for Lecturers that are over 50 to get an extra one percent discount for every year over fifty they are. Modify toString methods as required. 
