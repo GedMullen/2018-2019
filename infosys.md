@@ -1,6 +1,7 @@
 # Week 8
 
 * Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial. You will need a google account for this.
+* [Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 
 ```bash
 php -S 0.0.0.0:8081

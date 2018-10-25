@@ -28,6 +28,10 @@ ssh -L 8888:localhost:8777 you@ygritte.uk
 * [Lee's Gist](https://gist.github.com/LeeGlen610)
 * [CRC Cards Intro](https://docs.google.com/presentation/d/1UAaFDoDu3F3yePTW9nN7ewdSZYtv3X8CuRxrF4c-4as/edit?usp=sharing)
 * [What Is A CRC Card?](https://drive.google.com/file/d/1kp9lhFhcUnp9GtnXgTBGB9LPkd61GmaK/view?usp=sharing) 
+* [CRC Answer 1](https://docs.google.com/document/d/1l5IKOOvnWdK4WVO2kqbnNlo9IEkgcQcUPwgLtjYJ9pU/edit?usp=sharing)
+<!--
+* [Example CRC Answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing)
+-->
 
 # Exercises
 
