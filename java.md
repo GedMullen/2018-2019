@@ -27,13 +27,13 @@ ssh -L 8888:localhost:8777 you@ygritte.uk
 * [CRC Model Tutorial](http://agilemodeling.com/artifacts/crcModel.htm)
 * [Lee's Gist](https://gist.github.com/LeeGlen610)
 * [CRC Cards Intro](https://docs.google.com/presentation/d/1UAaFDoDu3F3yePTW9nN7ewdSZYtv3X8CuRxrF4c-4as/edit?usp=sharing)
-* [What Is A CRC Card?](https://docs.google.com/presentation/d/1UAaFDoDu3F3yePTW9nN7ewdSZYtv3X8CuRxrF4c-4as/edit?usp=sharing) 
+* [What Is A CRC Card?](https://drive.google.com/file/d/1kp9lhFhcUnp9GtnXgTBGB9LPkd61GmaK/view?usp=sharing) 
 
 # Exercises
 
 * Add a "canteenDiscount" attribute to Person of 10 percent. Override the getCanteenDiscount() method to allow for Lecturers that are over 50 to get an extra one percent discount for every year over fifty they are. Modify toString methods as required. 
 * Continue working through the [OOP Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html).
-* Review the [What Is A CRC Card?](https://docs.google.com/presentation/d/1UAaFDoDu3F3yePTW9nN7ewdSZYtv3X8CuRxrF4c-4as/edit?usp=sharing) tutorial.
+* Review the [What Is A CRC Card?](https://drive.google.com/file/d/1kp9lhFhcUnp9GtnXgTBGB9LPkd61GmaK/view?usp=sharing) tutorial.
 * In your groups, for the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create CRC cards. 
 
 
