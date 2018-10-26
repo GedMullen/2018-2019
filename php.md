@@ -1,5 +1,6 @@
 # Week 7
 
+* [Octoverse Trends](https://octoverse.github.com/projects.html)
 * [Why is JavaScript So Popular?](https://www.simplytechnologies.net/blog/2018/4/11/why-is-javascript-so-popular)
 * [HTML with JavaScript](https://www.w3schools.com/html/html_scripts.asp)
 * [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
