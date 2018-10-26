@@ -1,3 +1,11 @@
+# Week 9
+
+* See assessment in section Project Outline, Requirements and Resources on [Moodle](http://moodle.forthvalley.ac.uk/moodle/course/view.php?id=2500)
+
+# Exercise 
+
+* Start thinking about your website design using the Web Design - Additional Links and Resources section on [Moodle](http://moodle.forthvalley.ac.uk/moodle/course/view.php?id=2500).
+
 # Week 8
 
 * Complete the [Getting Started With Cloud Shell](https://cloud.google.com/shell/docs/starting-cloud-shell) tutorial. You will need a google account for this.
@@ -17,7 +25,7 @@ php -S 0.0.0.0:8081
 ## Exercise 
 
 * Use [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/beginners/html) on your webpage to:
-	* Inpect the styles associated with a given element.
+	* Inspect the styles associated with a given element.
 	* Modify an element on the fly.
 	* Understand the padding around an element.
 
@@ -32,7 +40,7 @@ php -S 0.0.0.0:8081
 
 * Using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp) update your website to include the following client side scripting:
 	* An alert box.
-	* Dynamically upating text [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
+	* Dynamically updating text [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_style)
 	* Writing into the browser console [see example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_dom)
 
 # Week 5
