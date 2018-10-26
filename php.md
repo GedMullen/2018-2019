@@ -1,3 +1,16 @@
+# Week 7
+
+* [Why is JavaScript So Popular?](https://www.simplytechnologies.net/blog/2018/4/11/why-is-javascript-so-popular)
+* [HTML with JavaScript](https://www.w3schools.com/html/html_scripts.asp)
+* [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
+* [Eloquent JavaScrtipt](https://github.com/marijnh/Eloquent-JavaScript)
+* [JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)i
+
+# Exercise
+
+* Expand the functionality of your websites using the [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp).
+
 <!--
 * [HTML Timeline](https://www.w3schools.com/Html/html5_intro.asp)
 * [HTML DOM Tree](https://www.w3schools.com/js/js_htmldom.asp)
