@@ -17,9 +17,25 @@ ssh -L 8888:localhost:8777 you@ygritte.uk
 ## Exercises
 
 1 . For the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) create a CRC card file on Ygritte. Name the file crc.txt.
-<br>2 . In your groups create a kitcrc.txt file on Ygritte and detail CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+2 . In your groups create a kitcrc.txt file on Ygritte and detail CRC cards for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
 <br>3 . In your groups create a class diagram from the CRC cards you created for KitBuildIt.
 -->
+
+# Week 8
+
+* [Class Diagrams Tutorial](http://agilemodeling.com/artifacts/classDiagram.htm)
+* [UML Class Diagrams](https://drive.google.com/file/d/0B-CFaefA1v4RTmhRa2NEUHpFcXc/view?usp=docslist_api)
+
+<!--
+<br>7 . [KitBuildIt CRC Answers](https://docs.google.com/document/d/11oA-s1ZZjbHmFfEW8533Nkb5umgPt2k9c8dmuT_35TE/edit?usp=sharing)
+<br>8 . [KitBuildIt Class Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RVU9OYnVUejk3c1U/view?usp=sharing)
+-->
+
+## Exercises
+
+
+* In your groups create CRC cards and a Class Diagram for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
+
 
 # Week 7
 
