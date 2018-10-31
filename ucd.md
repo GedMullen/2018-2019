@@ -1,4 +1,22 @@
-# Week 6
+# Week 8 & 9 
+
+* [Navigation Maps 1](http://www.userfocus.co.uk/consultancy/cardsorting.html)
+* [Navigation Maps 2](http://www.userfocus.co.uk/articles/cardgames.html)
+* [Structure Charts](https://www.bbc.com/bitesize/guides/zw472hv/revision/3)
+* [draw.io](https://www.draw.io/)
+* [Wireframes](https://www.userfocus.co.uk/consultancy/wireframing.html)
+* [Wireframe Designs](http://www.asch.org.uk/teaching/webdesign/design/visual.html)
+* [Android Design Principals](https://material.io)
+* [Visual Design Basics](https://www.usability.gov/what-and-why/visual-design.html)]
+* [Design Overview](https://www.johnlovett.com/design-overview)
+* [More detailed material on design](https://www.johnlovett.com/elements-and-principles-of-design)
+* [Mockup Diagrams](https://moqups.com/)
+
+<!--
+* [Assessment Submission](http://moodle.forthvalley.ac.uk/moodle/mod/assign/view.php?id=84405)
+-->
+
+# Week 6 & 7
 
 * [Assessment](http://moodle.forthvalley.ac.uk/moodle/mod/assign/view.php?id=81693)
 
