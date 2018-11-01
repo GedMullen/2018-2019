@@ -1,3 +1,12 @@
+# Week 8
+
+* [PHP Documentation](http://www.php.net/)
+* [PHP Tutorial](http://www.w3schools.com/php/) 
+
+# Exercise
+
+* Implement this [PHP script](https://www.w3schools.com/php/) in Google Cloud.
+
 # Week 7
 
 * [Octoverse Trends](https://octoverse.github.com/projects.html)
@@ -6,7 +15,7 @@
 * [JavaScript Examples](https://www.w3schools.com/js/js_examples.asp)
 * [Eloquent JavaScrtipt](https://github.com/marijnh/Eloquent-JavaScript)
 * [JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)i
+* [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 # Exercise
 
