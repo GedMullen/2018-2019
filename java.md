@@ -11,10 +11,8 @@
 
 
 * In your groups create CRC cards and a Class Diagram for the following [KitBuildIt scenario](https://docs.google.com/document/d/1LfL8Q6N1RXKshODRG5qTILTMhUhwRuHxJlr60PwaolI/edit?usp=sharing) 
-<!--
 * Implement the domain classes in the KitBuildIt class diagram.
 * Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
--->
 
 # Week 7
 
