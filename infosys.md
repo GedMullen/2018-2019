@@ -1,6 +1,9 @@
 # Week 9
 
 * See assessment in section Project Outline, Requirements and Resources on [Moodle](http://moodle.forthvalley.ac.uk/moodle/course/view.php?id=2500)
+* [Website Structures](https://www.bbc.com/bitesize/guides/z96psbk/revision/1)
+* [Draw.io](https://www.draw.io/)
+* [Climate Change Resources](https://drive.google.com/drive/folders/1ZggodP3_9KQ3kvKU0YuDMOvxMcYxjYuA?usp=sharing)
 
 # Exercise 
 
