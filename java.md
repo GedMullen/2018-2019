@@ -1,3 +1,15 @@
+# Week 9
+
+* [Java Interfaces](https://www.tutorialspoint.com/java/java_interfaces.htm)
+* [What is an Interface?](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
+* [Introduction To Collections](https://docs.google.com/presentation/d/1UrMrlhy3sX4pKjnu_gk0zvHilW-VQyHIOadfXnfjc-4/edit?usp=sharing)
+* [Data Structures Overview](http://careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)
+* [LikedList V ArrayList](https://www.callicoder.com/java-linkedlist/)
+
+## Exercises
+
+* Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
+* Create a LinkedList of Houses using the 6 houses created in the previous exercise. 
 
 # Week 8
 
