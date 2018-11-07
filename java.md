@@ -10,7 +10,8 @@
 ## Exercises
 
 * Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
-* Create a LinkedList of Houses using the 6 houses created in the previous exercise. 
+* Populate 2 instances of a a Customer. Write test code by outputting the contents of the objects.  
+* Modify your code to use a LinkedList insetead of an ArrayList. 
 
 # Week 8
 
