@@ -5,6 +5,7 @@
 * [Introduction To Collections](https://docs.google.com/presentation/d/1UrMrlhy3sX4pKjnu_gk0zvHilW-VQyHIOadfXnfjc-4/edit?usp=sharing)
 * [Data Structures Overview](http://careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)
 * [LikedList V ArrayList](https://www.callicoder.com/java-linkedlist/)
+* [KitBuildIt Classes](https://github.com/GedMullen/java/tree/master/week8)
 
 ## Exercises
 
