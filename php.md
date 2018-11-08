@@ -1,6 +1,37 @@
 # Week 9
 
 * [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+```
+mkdir sqlexercises
+cd sqlexercises
+```
+* Create a file called week9.sql and add the following line:
+```sql
+select * from employees limit 10;
+```
+* Run your SQL script using the following command:
+```
+mysql -h 104.154.228.65 -u student employees
+```
+* [Select](http://www.w3schools.com/sql/sql_select.asp)
+* [Where](http://www.w3schools.com/sql/sql_where.asp)
+* [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
+* [Count](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
+* [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
+* [Dates](http://www.w3schools.com/sql/sql_dates.asp)
+
+## Exercises
+
+* Create an SQL script in your sqlexercises folder called week9.sql and write a SELECT statement that outputs a list of the first 10 female employees (use LIMIT 10). Append the following exercises to your script: 
+* A list of female employees that have a last name of “Gils”
+* Use the SQL created in Exercise 2 to create a list showing only the first name, last name and DOB.
+* Sort the output in 3 by first name.
+* Sort the output in 3 by DOB.
+* List all employees whose DOB is 18/1/1962 (dates can be referenced as strings - WHERE birth_date = '1961-08-29')
+* Who is the oldest employee?
+* Who is the newest (most recently hired) employee?
+* List all female employees that were born in the 60s.
+* List all male employees that were hired in the 80s.
 
 
 # Week 8
