@@ -12,6 +12,19 @@
 * Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
 * Populate 2 instances of a a Customer. Write test code by outputting the contents of the objects.  
 * Modify your code to use a LinkedList insetead of an ArrayList. 
+	* a) Add Customer
+<br>b) List All Customers
+<br>c) Add House Details
+<br>d) Edit House Details 
+<br>e) List All Houses
+<br>f) Record A Quote
+<br>g) Edit A Quote
+<br>h) List Quotes
+<br>
+* If the user logs in as a customer then check the username and password corresponds to one of the customer objects you created and output the menu below otherwise display "Invalid Login" and prompt the user again. This will require you to update your Customer class to contain a username and password.
+<br>
+<br>a) Edit Profile
+<br>b) Search For A House
 
 # Week 8
 
