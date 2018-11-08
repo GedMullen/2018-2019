@@ -7,11 +7,11 @@ cd sqlexercises
 ```
 * Create a file called week9.sql and add the following line:
 ```sql
-select * from employees limit 10;
+SELECT * FROM employees LIMIT 10;
 ```
 * Run your SQL script using the following command:
 ```
-mysql -h 104.154.228.65 -u student employees
+mysql -h 104.154.XXX.65 -u student employees < week9.sql
 ```
 * [Select](http://www.w3schools.com/sql/sql_select.asp)
 * [Where](http://www.w3schools.com/sql/sql_where.asp)
