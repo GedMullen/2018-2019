@@ -7,6 +7,7 @@
 * [LikedList V ArrayList](https://www.callicoder.com/java-linkedlist/)
 * [KitBuildIt Classes](https://github.com/GedMullen/java/tree/master/week8)
 * [MVC Pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Interfaces Example](http://gedmullen.github.io/)
 
 ## Exercises
 
