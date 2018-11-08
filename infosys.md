@@ -1,3 +1,14 @@
+# Week 10
+
+* [Interaction between human users and an information system](https://www.bbc.com/bitesize/guides/z8xpsbk/revision/2)
+
+## Exercise
+
+* Write a minimum of 250 words to answer the following questions: 
+	* What is the target audience of the website?
+	* What is the purpose of the website (e.g. research)?
+	* What is the websites goals (e.g. usability)?
+
 # Week 9
 
 * See assessment in section Project Outline, Requirements and Resources on [Moodle](http://moodle.forthvalley.ac.uk/moodle/course/view.php?id=2500)
