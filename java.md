@@ -12,6 +12,7 @@
 * Populate 3 Masonry House instances and 3 Timber House instances. Write test code by outputting the contents of the objects.
 * Populate 2 instances of a a Customer. Write test code by outputting the contents of the objects.  
 * Modify your code to use a LinkedList insetead of an ArrayList. 
+* Create a login prompt for username and password. If the user logs in with "admin" and "password" then display the following menu options:
 	* a) Add Customer
 	* b) List All Customers
 	* c) Add House Details
