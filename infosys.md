@@ -17,6 +17,7 @@
 * [Website Structures](https://www.bbc.com/bitesize/guides/z96psbk/revision/1)
 * [Draw.io](https://www.draw.io/)
 * [Climate Change Resources](https://drive.google.com/drive/folders/1ZggodP3_9KQ3kvKU0YuDMOvxMcYxjYuA?usp=sharing)
+* [Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
 
 # Exercise 
 
