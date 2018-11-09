@@ -46,6 +46,19 @@ FROM employees
 WHERE gender="F" 
 AND last_name="Gils"
 LIMIT 10; 
+
+SELECT first_name, last_name, birth_date  
+FROM employees
+WHERE last_name="Gils"
+AND gender="F" 
+LIMIT 10;
+
+SELECT first_name, last_name, birth_date  
+FROM employees
+WHERE last_name="Gils"
+AND gender="F"
+ORDER BY first_name 
+LIMIT 10;
 ```
 
 
