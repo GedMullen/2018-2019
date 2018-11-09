@@ -25,8 +25,8 @@ mysql -h 104.154.XXX.65 -u student employees < week9.sql
 * Create an SQL script in your sqlexercises folder called week9.sql and write a SELECT statement that outputs a list of the first 10 female employees (use LIMIT 10). Append the following exercises to your script: 
 * A list of female employees that have a last name of “Gils”
 * Use the SQL created in Exercise 2 to create a list showing only the first name, last name and DOB.
-* Sort the output in 3 by first name.
-* Sort the output in 3 by DOB.
+* Sort the output in previous question by first name.
+* Sort the output in previous question by DOB.
 * List all employees whose DOB is 18/1/1962 (dates can be referenced as strings - WHERE birth_date = '1961-08-29')
 * Who is the oldest employee?
 * Who is the newest (most recently hired) employee?
