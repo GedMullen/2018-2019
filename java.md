@@ -1,3 +1,20 @@
+<!--
+# Week 10 
+
+* [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
+* [Polymorphism Tutorial 2](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
+* [Java and OO Glossary](http://www.cs.kent.ac.uk/people/staff/djb/oop/glossary.html)
+* [Polymorphism Image](https://drive.google.com/file/d/0B-CFaefA1v4RaFFSeUpPbkpKVDQ/view?usp=docslist_api)
+* [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
+* [Java Maps](https://www.javatpoint.com/java-map)
+
+## Exercise
+
+* Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
+
+-->
+
+
 # Week 9
 
 * [Java Interfaces](https://www.tutorialspoint.com/java/java_interfaces.htm)
