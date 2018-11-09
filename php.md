@@ -18,7 +18,7 @@ mysql -h 104.154.XXX.65 -u student employees < week9.sql
 * [Order By](http://www.w3schools.com/sql/sql_orderby.asp)
 * [Count](https://www.w3schools.com/sql/sql_count_avg_sum.asp)
 * [And & Or](http://www.w3schools.com/sql/sql_and_or.asp)
-* [Dates](http://www.w3schools.com/sql/sql_dates.asp)
+* [Dates](http://www.w3schools.com/sql/sql_dates.asp) 
 
 ## Exercises
 
@@ -32,6 +32,21 @@ mysql -h 104.154.XXX.65 -u student employees < week9.sql
 * Who is the newest (most recently hired) employee?
 * List all female employees that were born in the 60s.
 * List all male employees that were hired in the 80s.
+
+### Answers
+
+```sql
+SELECT * 
+FROM employees 
+WHERE gender="F" 
+LIMIT 10; 
+
+SELECT * 
+FROM employees 
+WHERE gender="F" 
+AND last_name="Gils"
+LIMIT 10; 
+```
 
 
 # Week 8
