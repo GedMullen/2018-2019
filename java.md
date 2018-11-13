@@ -1,4 +1,3 @@
-<!--
 # Week 10 
 
 * [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
@@ -12,7 +11,6 @@
 
 * Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
 
--->
 
 
 # Week 9
