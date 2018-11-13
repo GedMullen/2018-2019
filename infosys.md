@@ -7,7 +7,7 @@
 * Write a minimum of 250 words to answer the following questions: 
 	* What is the target audience of the website?
 	* What is the purpose of the website (e.g. research)?
-	* What is the websites goals (e.g. usability)?
+	* What is the websites goals (e.g. usability, audience)?
 
 # Week 9 & 10
 
