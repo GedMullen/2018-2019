@@ -1,4 +1,3 @@
-<!--
 # Week 11
 
 * [Interaction between human users and an information system](https://www.bbc.com/bitesize/guides/z8xpsbk/revision/2)
@@ -9,7 +8,6 @@
 	* What is the target audience of the website?
 	* What is the purpose of the website (e.g. research)?
 	* What is the websites goals (e.g. usability)?
--->
 
 # Week 9 & 10
 
