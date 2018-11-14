@@ -1,3 +1,13 @@
+# Week 10
+
+* [Colour Schemes](https://medium.com/@Adoriasoft/mobile-app-design-14-trendy-color-schemes-2669b5bb77d3)
+* [Colour Wheel](http://www.paletton.com)
+
+## Exercise
+
+* Using the colour wheel tool explore the options for combining colours together within an app. The example option will allow you to view a web page based on your chosen colour scheme.
+* Use the vision simulation tool on the example window to view the page under different vision conditions.
+
 # Week 8 & 9 
 
 * [Structure Charts](https://www.bbc.com/bitesize/guides/zw472hv/revision/3)
