@@ -1,3 +1,36 @@
+# Week 10
+
+* MySQL manual page:
+```
+man mysql
+```
+* Using MySQL interactively:
+```
+mysql -h 104.154.XXX.65 -u student employees 
+```
+* Useful MySQL commands:
+```
+SHOW TABLES;
+DESCRIBE employees;
+```
+* Connecting to MySQL and running a PHP server
+```bash
+mkdir week10
+cd week10
+git clone https://github.com/GedMullen/php.git
+cd php/intro
+```
+* Edit index.php with the correct IP address.
+* Run a PHP webserver and view the output using Web View. Change the port to 8081. 
+```bash
+php -S 0.0.0.0:8081
+```
+
+## Exercises
+* Familiarise yourself with the man pages for the mysql command.
+* Run some of the SQL scripts you created in week 9 interactively.  
+* Create an index.php page that displays the output from the SQL you created in week 9 to the browser. Use [HTML Tables](https://www.w3schools.com/html/html_tables.asp) to do this. Add CSS to format the tables. 
+
 # Week 9
 
 * [MySQL Example Employee Database](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
@@ -59,6 +92,44 @@ WHERE last_name="Gils"
 AND gender="F"
 ORDER BY first_name 
 LIMIT 10;
+
+SELECT first_name, last_name, birth_date  
+FROM employees
+WHERE last_name="Gils"
+AND gender="F"
+ORDER BY birth_date 
+LIMIT 10;
+
+SELECT * 
+FROM employees 
+WHERE birth_date="1962-01-18"
+LIMIT 10;
+
+SELECT first_name, last_name, birth_date 
+FROM employees 
+ORDER BY birth_date ASC 
+LIMIT 1; 
+
+SELECT first_name, last_name, birth_date 
+FROM employees 
+ORDER BY hire_date ASC 
+LIMIT 1; 
+
+SELECT first_name, last_name, hire_date 
+FROM employees 
+WHERE gender='F'
+AND birth_date BETWEEN '1960-01-01' and '1969-12-31' 
+ORDER BY birth_date
+LIMIT 10;
+
+-- Solution using LIKE
+SELECT first_name, last_name, hire_date 
+FROM employees 
+WHERE gender="M" 
+AND hire_date LIKE '%198%' 
+ORDER BY hire_date ASC
+LIMIT 10;
+
 ```
 
 

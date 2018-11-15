@@ -12,6 +12,7 @@
 
 * Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
 * Implement menu option - b) List All Customers
+* Implement menu option - c) Add House Details
 
 # Week 9
 
