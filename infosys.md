@@ -1,6 +1,19 @@
+<!--
+# Week 12 
+
+* [Website Security Risks](https://www.bbc.com/bitesize/guides/z2c8wmn/revision/1)
+
+## Exercise
+
+* Write a minimum of 250 words to answer the following questions:
+	* What are the security risks associated with your website?
+	* What countermeasures can you introduce to mitigate these risks?
+-->
+
 # Week 11
 
 * [Interaction between human users and an information system](https://www.bbc.com/bitesize/guides/z8xpsbk/revision/2)
+* [Website Defacement](https://blog.sucuri.net/2018/09/unsuccessfully-defaced-websites.html)
 
 ## Exercise
 
