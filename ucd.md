@@ -2,6 +2,7 @@
 
 * [Colour Schemes](https://medium.com/@Adoriasoft/mobile-app-design-14-trendy-color-schemes-2669b5bb77d3)
 * [Colour Wheel](http://www.paletton.com)
+* [Task 2](https://docs.google.com/document/d/1DWkdptqxSxyNvFCUwGY_wuXHFyPnspyJSNyZHHnlkME/edit?usp=sharing)
 
 ## Exercise
 

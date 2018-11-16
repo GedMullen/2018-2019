@@ -1,3 +1,43 @@
+<!--
+19.12 KBI
+26.12 KBI 
+3.12 Seq
+10.12 KBI 
+17.12 X
+
+
+
+## Exercises
+
+* Implement menu option - f) Record A Quote
+* Implement menu option - g) Edit A Quote
+* Implement menu option - h) List Quotes
+* Implement menu option (Customer) - a) Edit Profile
+* Implement menu option (Customer) - b) Search For A House
+* Add exception handling to your code so that if the user enters a string where a number is expected then an appropriate message is displayed. 
+* Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
+* Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
+* Create an Interface called Discountable with an abstract method called getPercentage(). Implement the interface in Timber.java. When a quote is recorded check if the House selected is an instance of Discountable and assign the discount to the quote. Display the discount when the "b) List All Customers" menu option is selected.  
+* Create a JUnit test for the following:
+	* User login.
+	* Check that House objects have been populated correctly.
+	* Record a Quote.
+
+* [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+-->
+
+
+# Week 11
+
+* [Java Maps](https://www.javatpoint.com/java-map)
+* [Week 10 Answers](https://github.com/GedMullen/java)
+
+
+## Exercises
+
+* Implement menu option - d) Edit House Details 
+* Implement menu option - e) List All Houses
+
 # Week 10 
 
 * [Polymorphism Tutorial 1](https://www.tutorialspoint.com/java/java_polymorphism.htm)
@@ -6,9 +46,8 @@
 * [Polymorphism Image](https://drive.google.com/file/d/0B-CFaefA1v4RaFFSeUpPbkpKVDQ/view?usp=docslist_api)
 * [Polymorphism Definition](http://whatis.techtarget.com/definition/polymorphism)
 * [Week 9 Answers](https://github.com/GedMullen/java)
-* [Java Maps](https://www.javatpoint.com/java-map)
 
-## Exercise
+## Exercises
 
 * Implement the "Add Customer" menu option. Prompt the user for all the information required to create a Customer object then check that it works by logging in as that customer.
 * Implement menu option - b) List All Customers
