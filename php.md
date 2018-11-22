@@ -1,3 +1,42 @@
+<!--
+11 - more sql/php
+12 - create a table
+13 - form
+14 - form answer
+
+# Week 11
+
+* [MySQLi examples](http://php.net/manual/en/mysqli.examples-basic.php)
+* [index.php example code](https://github.com/GedMullen/php/blob/master/week11/index.php)
+* Running example:
+```bash
+mkdir week11
+cd week11
+git clone https://github.com/GedMullen/php.git
+cd php/week11
+```
+* Edit index.php with the correct IP address.
+* Run a PHP webserver and view the output using Web View. Change the port to 8081. 
+```bash
+php -S 0.0.0.0:8081
+```
+* [Joins](http://www.w3schools.com/sql/sql_join.asp)
+* [Aliases](https://www.w3schools.com/sql/sql_alias.asp)
+
+## Exercises
+
+* Create SQL for the following exercises and use PHP to output the results to a HTML table. 
+* Count the number of female employees that were born in the 50s.
+* What is the employee id of the person with the highest salary?
+* Find the employee details (name DOB etc) of the person with the highest salary (you will need to join the salaries and employees tables).
+* Find the employee details of the person with the lowest salary.
+* List all the salaries of Berni Sanella DOB 29/8/61 - order the query by to_date;
+* Create an alias for the pension column in Q5 called “Pension”.
+* How much was Bernie paid in the month of October 1997 ( salary / 12 )?
+
+-->
+
+
 # Week 10
 
 * MySQL manual page:

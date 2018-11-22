@@ -37,6 +37,8 @@
 
 * Implement menu option - d) Edit House Details 
 * Implement menu option - e) List All Houses
+* Modify your code to use a Map instead of an ArrayList to store the collection of houses. Does this make it easier to edit a house?
+* Implement menu option - f) Record A Quote
 
 # Week 10 
 
