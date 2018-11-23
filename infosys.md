@@ -11,6 +11,7 @@
 # Week 12 
 
 * [Website Security Risks](https://www.bbc.com/bitesize/guides/z2c8wmn/revision/1)
+* [Automation Economic Impact](https://www.technologyreview.com/video/610706/ais-economic-impact/)
 
 ## Exercise
 
