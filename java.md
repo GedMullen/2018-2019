@@ -24,7 +24,19 @@
 	* Record a Quote.
 
 * [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+
 -->
+
+# Week 12
+
+* [Week 11 Answers](https://github.com/GedMullen/java)
+
+## Exercises
+
+* Implement menu option - f) Record A Quote
+* Implement menu option - g) Edit A Quote
+* Implement menu option - h) List Quotes
+
 
 
 # Week 11
@@ -38,7 +50,6 @@
 * Implement menu option - d) Edit House Details 
 * Implement menu option - e) List All Houses
 * Modify your code to use a Map instead of an ArrayList to store the collection of houses. Does this make it easier to edit a house?
-* Implement menu option - f) Record A Quote
 
 # Week 10 
 
