@@ -36,6 +36,8 @@
 * Implement menu option - f) Record A Quote
 * Implement menu option - g) Edit A Quote
 * Implement menu option - h) List Quotes
+* Implement menu option (Customer) - a) Edit Profile
+* Implement menu option (Customer) - b) Search For A House
 
 
 

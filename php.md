@@ -3,6 +3,62 @@
 12 - create a table
 13 - form
 14 - form answer
+
+# Week 12
+
+
+* Week 11 Answers
+
+```sql
+SELECT count(*)
+FROM employees
+WHERE gender="F"
+AND birth_date LIKE '%195%';
+
+SELECT  salaries.emp_no
+FROM salaries
+ORDER BY salaries.salary DESC
+LIMIT 1;
+
+SELECT  salaries.*, employees.first_name, employees.last_name, employees.gender, employees.birth_date, employees.hire_date
+FROM salaries
+INNER JOIN employees
+ON salaries.emp_no=employees.emp_no
+ORDER BY salaries.salary DESC
+LIMIT 1;
+
+-- Simplified Inner Join example
+SELECT  salaries.*, employees.first_name, employees.last_name, employees.gender, employees.birth_date, employees.hire_date
+FROM salaries, employees
+WHERE salaries.emp_no=employees.emp_no
+ORDER BY salaries.salary ASC
+LIMIT 1;
+
+SELECT salaries.*, employees.first_name, employees.last_name, employees.gender, employees.birth_date
+FROM salaries
+INNER JOIN employees
+ON salaries.emp_no=employees.emp_no
+WHERE first_name="Berni"
+AND last_name="Sanella"
+AND birth_date="1961-08-29"
+ORDER BY to_date;
+
+SELECT s.salary * 0.1 AS Pension
+        FROM salaries s, employees e
+        WHERE s.emp_no=e.emp_no
+        AND e.first_name = 'Berni'
+        AND e.last_name = 'Sanella'
+        AND e.birth_date = '1961-08-29';
+
+SELECT salary/12 AS Salary
+        FROM salaries s, employees e
+        WHERE e.emp_no = s.emp_no
+        AND from_date < '1997-10-01'
+        AND to_date > '1997-10-31'
+        AND first_name = 'Berni'
+        AND last_name = 'Sanella'
+        AND birth_date = '1961-08-29';
+```
 -->
 
 # Week 11
