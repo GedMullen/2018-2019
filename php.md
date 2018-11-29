@@ -3,11 +3,29 @@
 12 - create a table
 13 - form
 14 - form answer
+-->
 
 # Week 12
 
+* [CSS Frameworks](https://hackernoon.com/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017-344a8b67fba1)
+* [PHP Form Processing](https://www.w3schools.com/php/php_form_validation.asp)
+* Set up Week 12 example code
+```bash
+mkdir loginexample
+cd loginexample
+git clone https://github.com/GedMullen/php.git
+cd php/week12
+```
+* Follow the instructions in class to setup the database and run the application
 
-* Week 11 Answers
+## Exercise
+
+* Complete the [PHP Form Processing](https://www.w3schools.com/php/php_form_validation.asp) tutorial. Get the example working in cloud shell. 
+* Modify menu.php to check if the username entered is correct.
+* Add a password to the users table and check that the password is correct. 
+
+
+## Week 11 Answers
 
 ```sql
 SELECT count(*)
@@ -59,7 +77,6 @@ SELECT salary/12 AS Salary
         AND last_name = 'Sanella'
         AND birth_date = '1961-08-29';
 ```
--->
 
 # Week 11
 

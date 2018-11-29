@@ -30,6 +30,7 @@
 # Week 12
 
 * [Week 11 Answers](https://github.com/GedMullen/java)
+* [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
 
 ## Exercises
 
@@ -38,6 +39,7 @@
 * Implement menu option - h) List Quotes
 * Implement menu option (Customer) - a) Edit Profile
 * Implement menu option (Customer) - b) Search For A House
+* Add exception handling to your code so that if the user enters a string where a number is expected then an appropriate message is displayed. 
 
 
 
