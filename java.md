@@ -27,6 +27,18 @@
 
 -->
 
+# Week 13 
+
+* Sequence Diagrams 
+	* [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
+	* [Slides](https://docs.google.com/presentation/d/1Uu2vqmbIuV1g6YaG0cCNhM9diUcoKPDizjvvdppPCY8/edit?usp=sharing)
+	* [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
+
+## Exercises
+
+1 . In your groups for the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) use the [example CRC answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing) to create Sequence Diagrams.
+
+
 # Week 12
 
 * [Week 11 Answers](https://github.com/GedMullen/java)

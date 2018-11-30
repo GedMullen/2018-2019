@@ -17,6 +17,10 @@ git clone https://github.com/GedMullen/php.git
 cd php/week12
 ```
 * Follow the instructions in class to setup the database and run the application
+```bash
+mysql -h 104.154.XXX.65 -u student  < database.sql
+php -S 0.0.0.0:8081
+```
 
 ## Exercise
 
