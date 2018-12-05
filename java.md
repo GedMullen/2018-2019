@@ -36,7 +36,8 @@
 
 ## Exercises
 
-1 . In your groups for the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) use the [example CRC answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing) to create Sequence Diagrams.
+* Create a Sequence Daigram for the "Add House Details" menu option. 
+* In your groups for the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) use the [example CRC answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing) to create Sequence Diagrams.
 
 
 # Week 12
