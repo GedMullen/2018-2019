@@ -33,9 +33,13 @@
 	* [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
 	* [Slides](https://docs.google.com/presentation/d/1Uu2vqmbIuV1g6YaG0cCNhM9diUcoKPDizjvvdppPCY8/edit?usp=sharing)
 	* [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
-* [Activity Diagram Tutorial](http://agilemodeling.com/artifacts/activityDiagram.htm)
-* [Statechart Tutorial](http://agilemodeling.com/artifacts/stateMachineDiagram.htm). 
-* [Android Statechart Example](https://drive.google.com/file/d/0B-CFaefA1v4RV0Z0UWZSWDlxblk/view?usp=sharing)
+* Activity Diargrams 
+	* [Activity Diagram Tutorial](http://agilemodeling.com/artifacts/activityDiagram.htm)
+	* [Slides](https://docs.google.com/presentation/d/1o0q22MXJKPTgvW_hcwJGHvgnAz8uu3tVv_4x41T3yuo/edit?usp=sharing)
+* State Machine Diagrams
+	* [Statechart Tutorial](http://agilemodeling.com/artifacts/stateMachineDiagram.htm). 
+	* [Slides](https://docs.google.com/presentation/d/1yhTWSHTLAu9Tkq1E3h1SEps0RU4YEgQ8m1KUDlOl_y8/edit?usp=sharing)
+	* [Android Statechart Example](https://drive.google.com/file/d/0B-CFaefA1v4RV0Z0UWZSWDlxblk/view?usp=sharing)
 <!--
 * [Librarian Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RNDR3TFlJOWg5ZkE/view?usp=sharing)
 * [Bank Account Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RY2d2LThPYkR3MjQ/view?usp=sharing)
