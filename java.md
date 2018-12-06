@@ -33,13 +33,21 @@
 	* [Sequence Diagrams Tutorial](http://www.agilemodeling.com/artifacts/sequenceDiagram.htm)
 	* [Slides](https://docs.google.com/presentation/d/1Uu2vqmbIuV1g6YaG0cCNhM9diUcoKPDizjvvdppPCY8/edit?usp=sharing)
 	* [Sequence Diagrams Drawing Tool](https://www.websequencediagrams.com)
+* [Activity Diagram Tutorial](http://agilemodeling.com/artifacts/activityDiagram.htm)
+* [Statechart Tutorial](http://agilemodeling.com/artifacts/stateMachineDiagram.htm). 
+* [Android Statechart Example](https://drive.google.com/file/d/0B-CFaefA1v4RV0Z0UWZSWDlxblk/view?usp=sharing)
+<!--
+* [Librarian Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RNDR3TFlJOWg5ZkE/view?usp=sharing)
+* [Bank Account Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RY2d2LThPYkR3MjQ/view?usp=sharing)
+* [Golfer Sequence Diagram](https://drive.google.com/file/d/0B-CFaefA1v4RS1JISEpJQTR4bGc/view?usp=sharing)
+-->
 
 ## Exercises
 
-* Create a Sequence Daigram for the "Add House Details" menu option.
-* Create a Sequence Daigram for the "Edit A Quote" menu option.
+* Create a Sequence Diagram for the "Add House Details" menu option.
+* Create a Sequence Diagram for the "Edit A Quote" menu option.
 * In your groups for the each of the following [use case examples](https://docs.google.com/document/d/16bjjcqkVtlwYeDtSx9ekH_pQCFNNoFjQtit5UGgxO-w/edit?usp=docslist_api) use the [example CRC answers](https://docs.google.com/document/d/1yvUCpbw0oomFoHb_7ILwoKIoluMLwvsUtA0PUxMbccc/edit?usp=sharing) to create Sequence Diagrams.
-
+* In your groups create an Activity Diagram for the "Add House Details" menu option. Add user validation into the diagram.
 
 # Week 12
 
