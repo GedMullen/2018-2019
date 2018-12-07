@@ -1,3 +1,13 @@
+# Week 13
+
+* [Theory Slides](https://docs.google.com/presentation/d/1cRsOdP0loF4g_zapRgVuSsijdZPlmZ1AxlvRg23itdI/edit?usp=sharing)
+* [Revision Questions](https://docs.google.com/document/d/1l4Alw0Cm9Aybd3V1IZ3Wg-JDBSNzhhBia0ZjDYuKMXY/edit?usp=sharing)
+* Multiple Choice Test - Friday 11.1.19
+
+## Exercises
+
+* Questionnaires
+
 # Week 12 
 
 * [Task 3](https://docs.google.com/document/d/1qq00gIVzoQPNKNj_mNczoclW4AQQ7j4xUJIxU9HZbTA/edit?usp=sharing)

@@ -5,6 +5,22 @@
 14 - form answer
 -->
 
+<!--
+# Week 13
+
+* Set up Week 13 example code
+```bash
+mkdir homepage
+cd homepage
+git clone https://github.com/GedMullen/php.git
+cd php/week13/example1
+```
+
+## Exercises
+
+* Complete the following [exercises](https://docs.google.com/document/d/1aSA95OAXIWO8xCH0uwZ5NrgiBxwYohv0zJGRQrpKsKs/edit?usp=sharing).
+-->
+
 # Week 12
 
 * [CSS Frameworks](https://hackernoon.com/top-5-most-popular-css-frameworks-that-you-should-pay-attention-to-in-2017-344a8b67fba1)
