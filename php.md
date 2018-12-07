@@ -5,7 +5,6 @@
 14 - form answer
 -->
 
-<!--
 # Week 13
 
 * Set up Week 13 example code
@@ -19,7 +18,6 @@ cd php/week13/example1
 ## Exercises
 
 * Complete the following [exercises](https://docs.google.com/document/d/1aSA95OAXIWO8xCH0uwZ5NrgiBxwYohv0zJGRQrpKsKs/edit?usp=sharing).
--->
 
 # Week 12
 
