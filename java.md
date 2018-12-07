@@ -27,6 +27,15 @@
 
 -->
 
+# Week 14
+
+* [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
+
+## Exercise
+
+*  Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
+
+
 # Week 13 
 
 * Sequence Diagrams 
