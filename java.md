@@ -29,11 +29,14 @@
 
 # Week 14
 
-* [Object Serialisation Tutorial](http://www.tutorialspoint.com/java/java_serialization.htm)
+* Java Object Serialisation
+	* [Tutorial 1](http://www.tutorialspoint.com/java/java_serialization.htm)
+	* [Tutorial 2](https://www.baeldung.com/java-serialization)
+	* [Tutorial 3](https://www.geeksforgeeks.org/serialization-in-java/)
 
 ## Exercise
 
-*  Use Object Serialisation to store the state of the objects in the application so that changes are persistent between application executions. 
+*  Use Object Serialisation to store the state of the objects in the KitBuildIt application so that changes are persistent between application executions. 
 
 
 # Week 13 
