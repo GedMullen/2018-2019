@@ -33,10 +33,14 @@
 	* [Tutorial 1](http://www.tutorialspoint.com/java/java_serialization.htm)
 	* [Tutorial 2](https://www.baeldung.com/java-serialization)
 	* [Tutorial 3](https://www.geeksforgeeks.org/serialization-in-java/)
+* Exceptions
+	* [Exceptions Tutorial](https://www.tutorialspoint.com/java/java_exceptions.htm)
+	* [More Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/)
 
 ## Exercise
 
-*  Use Object Serialisation to store the state of the objects in the KitBuildIt application so that changes are persistent between application executions. 
+* Use Object Serialisation to store the state of the objects in the KitBuildIt application so that changes are persistent between application executions. 
+* Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
 
 
 # Week 13 
