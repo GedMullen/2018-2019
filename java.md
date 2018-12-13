@@ -41,7 +41,7 @@
 
 * Use Object Serialisation to store the state of the objects in the KitBuildIt application so that changes are persistent between application executions. 
 * Implement an InvalidInputException and throw the exception when the user enters a string where a number is expected. Your application should handle the exception gracefully. 
-
+* Continue to implement validation on KitBuildIt. Modify the code to catch and deal with the InvalidInputException straight after the user has entered the invalid value.
 
 # Week 13 
 

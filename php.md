@@ -5,6 +5,12 @@
 14 - form answer
 -->
 
+# Week 14
+
+## Exercises
+
+* Complete the following [exercises](https://docs.google.com/document/d/1NM3z7RhYvzyAaziHf1pInuv8Vdava2Swc4Ha7Nfi56s/edit?usp=sharing).
+
 # Week 13
 
 * Set up Week 13 example code
