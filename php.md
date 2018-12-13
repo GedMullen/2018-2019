@@ -5,11 +5,22 @@
 14 - form answer
 -->
 
+<!--
 # Week 14
+
+* Set up Week 14 example code
+```bash
+mkdir forms
+cd forms
+git clone https://github.com/GedMullen/php.git
+cd php/week14/example1
+```
 
 ## Exercises
 
 * Complete the following [exercises](https://docs.google.com/document/d/1NM3z7RhYvzyAaziHf1pInuv8Vdava2Swc4Ha7Nfi56s/edit?usp=sharing).
+
+-->
 
 # Week 13
 
