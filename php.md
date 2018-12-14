@@ -5,7 +5,6 @@
 14 - form answer
 -->
 
-<!--
 # Week 14
 
 * [Google Fonts](https://www.w3schools.com/howto/howto_google_fonts.asp)
@@ -22,7 +21,6 @@ cd php/week14/example1
 
 * Complete the following [exercises](https://docs.google.com/document/d/1NM3z7RhYvzyAaziHf1pInuv8Vdava2Swc4Ha7Nfi56s/edit?usp=sharing).
 
--->
 
 # Week 13
 
