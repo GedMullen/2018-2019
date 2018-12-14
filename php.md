@@ -9,6 +9,7 @@
 # Week 14
 
 * [Google Fonts](https://www.w3schools.com/howto/howto_google_fonts.asp)
+* [Regular Expressions](https://github.com/ziishaned/learn-regex)
 * Set up Week 14 example code
 ```bash
 mkdir forms
