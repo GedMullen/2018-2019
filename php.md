@@ -5,6 +5,23 @@
 14 - form answer
 -->
 
+# Week 16 & 17
+
+* Set up the code for this week:
+```bash
+mkdir crudtutorial
+cd crudtutorial
+git clone https://github.com/GedMullen/php.git
+cd php/week16/crud
+```
+* Update customers.sql with your database name and run the script to set up your database.
+* Update database.php with your database name.
+
+## Exercises
+
+* Work your way through the [online CRUD tutorial](https://www.startutorial.com/articles/view/php-crud-tutorial-part-1).
+* Use the tutorial code as a template to build a CRUD web application of your choice.
+
 # Week 14
 
 * [Google Fonts](https://www.w3schools.com/howto/howto_google_fonts.asp)
